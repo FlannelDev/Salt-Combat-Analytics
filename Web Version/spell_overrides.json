@@ -1,0 +1,19 @@
+{
+  "_instructions": "Add a spell ID key with name, icon, parentId, role. Parent IDs only group verified effects; do not guess custom spell relationships.",
+  "66962": {
+    "parentId": 55268,
+    "role": "Off-hand"
+  },
+  "66216": {
+    "parentId": 49921,
+    "role": "Off-hand"
+  },
+  "66217": {
+    "parentId": 56815,
+    "role": "Off-hand"
+  },
+  "66953": {
+    "parentId": 49924,
+    "role": "Off-hand"
+  }
+}

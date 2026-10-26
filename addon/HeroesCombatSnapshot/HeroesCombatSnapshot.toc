@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Heroes Combat Snapshot
+## Notes: Group gear, enchant, gem and Heroes WoW tooltip collection; self stats
+## SavedVariables: HeroesCombatSnapshotDB
+HeroesCombatSnapshot.lua
+HCSInterface.lua
+
+HCSGearScore.lua
+HCSGearViewer.lua

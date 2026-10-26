@@ -1,0 +1,3558 @@
+{
+  "flandk": {
+    "name": "Flandk",
+    "realm": "HeroesWoW Reborn",
+    "class": "DEATHKNIGHT",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 2,
+        "name": "Death Knight's Fallen Neck",
+        "itemId": 121800,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:121800:0:3242:3242:0:0:0:0:1|h[Death Knight's Fallen Neck]|h|r",
+        "tooltip": [],
+        "tier": "Tier 18 Neck",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Haste Donor Shirt III",
+        "itemId": 977033,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977033:0:0:0:0:0:0:0:1|h[Haste Donor Shirt III]|h|r",
+        "tooltip": [],
+        "tier": "Donation Item",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Death Knight's Plagued Waist",
+        "itemId": 111403,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          3242,
+          3242,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111403:0:3242:3242:3242:0:0:0:1|h[Death Knight's Plagued Waist]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Death Knight's Fallen Feet",
+        "itemId": 111401,
+        "enchantId": 3232,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111401:3232:3242:3242:0:0:0:0:1|h[Death Knight's Fallen Feet]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Death Knight's Fallen Wrist",
+        "itemId": 111404,
+        "enchantId": 3757,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111404:3757:3242:3242:0:0:0:0:1|h[Death Knight's Fallen Wrist]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Death Knight's Fallen Ring",
+        "itemId": 121850,
+        "enchantId": 3791,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:121850:3791:3242:3242:0:0:0:0:1|h[Death Knight's Fallen Ring]|h|r",
+        "tooltip": [],
+        "tier": "Tier 18 Ring",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Death Knight's Fallen Ring",
+        "itemId": 112850,
+        "enchantId": 3791,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112850:3791:3242:3242:0:0:0:0:1|h[Death Knight's Fallen Ring]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Ring",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Ancient Aqir Artifact",
+        "itemId": 33830,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:33830:0:0:0:0:0:0:0:1|h[Ancient Aqir Artifact]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Tank Trinket",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Death's Choice",
+        "itemId": 47464,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:47464:0:0:0:0:0:0:0:1|h[Death's Choice]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Death Knight's Plagued Shattered Back",
+        "itemId": 102921,
+        "enchantId": 3294,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102921:3294:3242:3242:0:0:0:0:1|h[Death Knight's Plagued Shattered Back]|h|r",
+        "tooltip": [],
+        "tier": "Tier 16 Back",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Taoren, the Soul Burner I",
+        "itemId": 1252010,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          3242,
+          3242,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1252010:0:3242:3242:3242:0:0:0:1|h[Taoren, the Soul Burner I]|h|r",
+        "tooltip": [],
+        "tier": "Tier 16",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 00:29:19"
+  },
+  "hcstesting": {
+    "name": "Hcstesting",
+    "realm": "HeroesWoW Reborn",
+    "class": "HUNTER",
+    "level": 1,
+    "gear": [
+      {
+        "slot": 2,
+        "name": "Choker of Damnation",
+        "itemId": 34657,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff1eff00|Hitem:34657:0:0:0:0:0:0:0:1|h[Choker of Damnation]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Plague Band",
+        "itemId": 34658,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff1eff00|Hitem:34658:0:0:0:0:0:0:0:1|h[Plague Band]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Plague Band",
+        "itemId": 34658,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff1eff00|Hitem:34658:0:0:0:0:0:0:0:1|h[Plague Band]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Acherus Knight's Shroud",
+        "itemId": 34659,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff1eff00|Hitem:34659:0:0:0:0:0:0:0:1|h[Acherus Knight's Shroud]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Manslayer of the Qiraji",
+        "itemId": 21492,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:21492:0:0:0:0:0:0:0:1|h[Manslayer of the Qiraji]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Mandokir's Sting",
+        "itemId": 20038,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:20038:0:0:0:0:0:0:0:1|h[Mandokir's Sting]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "SELF",
+    "capturedAt": "2026-10-21 00:30:19"
+  },
+  "abysscaller": {
+    "name": "Abysscaller",
+    "realm": "HeroesWoW Reborn",
+    "class": "WARLOCK",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Warlock's Netherweave Hood",
+        "itemId": 110023,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110023:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Hood]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Thunderstorm Amulet",
+        "itemId": 112018,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112018:0:0:0:0:0:0:0:255|h[Thunderstorm Amulet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Warlock's Netherweave Shoulderpads",
+        "itemId": 110016,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110016:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Shoulderpads]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Warlock's Netherweave Robe",
+        "itemId": 110013,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110013:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Robe]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Warlock's Netherweave Waist",
+        "itemId": 111463,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111463:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Warlock's Shattered Leggings",
+        "itemId": 468978,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:468978:0:0:0:0:0:0:0:255|h[Warlock's Shattered Leggings]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Warlock's Netherweave Feet",
+        "itemId": 111462,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111462:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Warlock's Netherweave Wrist",
+        "itemId": 111464,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111464:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Warlock's Netherweave Gloves",
+        "itemId": 110012,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110012:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Gloves]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Warlock's Netherweave Ring",
+        "itemId": 112865,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112865:0:0:0:0:0:0:0:255|h[Warlock's Netherweave Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Lost Jewel",
+        "itemId": 40080,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40080:0:0:0:0:0:0:0:255|h[Lost Jewel]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Shard of the Restless Soul",
+        "itemId": 990209,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:990209:0:0:0:0:0:0:0:255|h[Shard of the Restless Soul]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Shard of the Restless Soul",
+        "itemId": 990209,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:990209:0:0:0:0:0:0:0:255|h[Shard of the Restless Soul]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Shawl of the Old Maid",
+        "itemId": 40253,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40253:0:0:0:0:0:0:0:255|h[Shawl of the Old Maid]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Loshan, Terror Incarnate I",
+        "itemId": 1250912,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1250912:0:0:0:0:0:0:0:255|h[Loshan, Terror Incarnate I]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Scroll of Whispered Secrets I",
+        "itemId": 49160,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:49160:0:0:0:0:0:0:0:255|h[Scroll of Whispered Secrets I]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Torch of the Celestial Spark I",
+        "itemId": 1252210,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1252210:0:0:0:0:0:0:0:255|h[Torch of the Celestial Spark I]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Daily Haste Tabard I",
+        "itemId": 880017,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:880017:0:0:0:0:0:0:0:255|h[Daily Haste Tabard I]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:22"
+  },
+  "ashiamoon": {
+    "name": "Ashiamoon",
+    "realm": "HeroesWoW Reborn",
+    "class": "ROGUE",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Rogue's Helmet",
+        "itemId": 120047,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120047:0:0:0:0:0:0:0:255|h[Rogue's Helmet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Rogue's Neck",
+        "itemId": 111812,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111812:0:0:0:0:0:0:0:255|h[Rogue's Neck]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Rogue's Pauldrons",
+        "itemId": 120040,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120040:0:0:0:0:0:0:0:255|h[Rogue's Pauldrons]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Haste Donor Shirt III",
+        "itemId": 977033,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977033:0:0:0:0:0:0:0:255|h[Haste Donor Shirt III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Rogue's Breastplate",
+        "itemId": 120036,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120036:0:0:0:0:0:0:0:255|h[Rogue's Breastplate]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Rogue's Waist",
+        "itemId": 120357,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120357:0:0:0:0:0:0:0:255|h[Rogue's Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Rogue's Legplates",
+        "itemId": 111069,
+        "enchantId": 3328,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111069:3328:0:0:0:0:0:0:255|h[Rogue's Legplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Rogue's Feet",
+        "itemId": 120358,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120358:0:0:0:0:0:0:0:255|h[Rogue's Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Rogue's Wrist",
+        "itemId": 120356,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120356:0:0:0:0:0:0:0:255|h[Rogue's Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Rogue's Gauntlets",
+        "itemId": 111037,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111037:0:0:0:0:0:0:0:255|h[Rogue's Gauntlets]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Rogue's Ring",
+        "itemId": 111861,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111861:0:0:0:0:0:0:0:255|h[Rogue's Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Rogue's Ring",
+        "itemId": 111861,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111861:0:0:0:0:0:0:0:255|h[Rogue's Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Shard of Eternal Dread",
+        "itemId": 990208,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:990208:0:0:0:0:0:0:0:255|h[Shard of Eternal Dread]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Eye of Command",
+        "itemId": 960461,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:960461:0:0:0:0:0:0:0:255|h[Eye of Command]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Rogue's Back",
+        "itemId": 111932,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111932:0:0:0:0:0:0:0:255|h[Rogue's Back]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "|cff4CFF00Harbinger of Terror|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 19200,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:19200:0:0:0:0:0:0:0:255|h[|cff4CFF00Harbinger of Terror|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "|cff4CFF00Harbinger of Terror|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 19200,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:19200:0:0:0:0:0:0:0:255|h[|cff4CFF00Harbinger of Terror|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "|cff4CFF00Tortoiseshell Longbow|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 24326,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:24326:0:0:0:0:0:0:0:255|h[|cff4CFF00Tortoiseshell Longbow|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Haste Donor Tabard III",
+        "itemId": 977032,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977032:0:0:0:0:0:0:0:255|h[Haste Donor Tabard III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:32"
+  },
+  "cybrux": {
+    "name": "Cybrux",
+    "realm": "HeroesWoW Reborn",
+    "class": "WARRIOR",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Warrior's Piercing Crusader Helmet",
+        "itemId": 1148014,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148014:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Helmet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Warrior's Piercing Crusader Neck",
+        "itemId": 1148417,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148417:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Neck]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Warrior's Piercing Crusader Shoulderplates",
+        "itemId": 1148003,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148003:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Shoulderplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Halloween Shirt - Rank 2",
+        "itemId": 990207,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:990207:0:0:0:0:0:0:0:255|h[Halloween Shirt - Rank 2]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Warrior's Piercing Crusader Battleplate",
+        "itemId": 1148004,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148004:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Battleplate]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Warrior's Piercing Crusader Waist",
+        "itemId": 1148315,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148315:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Warrior's Piercing Crusader Legplates",
+        "itemId": 1148039,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148039:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Legplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Warrior's Piercing Crusader Treads",
+        "itemId": 1148312,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148312:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Treads]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Warrior's Piercing Crusader Wrist",
+        "itemId": 1148317,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148317:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Warrior's Piercing Crusader Gauntlets",
+        "itemId": 1148000,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148000:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Gauntlets]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Warrior's Piercing Crusader Ring",
+        "itemId": 1148466,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148466:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Warrior's Piercing Crusader Ring",
+        "itemId": 1148466,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148466:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Jaws of the Hungerer",
+        "itemId": 146008,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:146008:0:0:0:0:0:0:0:255|h[Jaws of the Hungerer]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Eye of Command",
+        "itemId": 960461,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:960461:0:0:0:0:0:0:0:255|h[Eye of Command]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Warrior's Piercing Crusader Cloak",
+        "itemId": 1148537,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1148537:0:0:0:0:0:0:0:255|h[Warrior's Piercing Crusader Cloak]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Frostmourne Of Donation V of Lich King",
+        "itemId": 1251239,
+        "enchantId": 2673,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:1251239:2673:0:0:0:0:0:0:255|h[Frostmourne Of Donation V of Lich King]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Frostmourne Of Donation V of Lich King",
+        "itemId": 1251239,
+        "enchantId": 2673,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:1251239:2673:0:0:0:0:0:0:255|h[Frostmourne Of Donation V of Lich King]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "|cff4CFF00Dagryn's Discarded Longbow V|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 1251916,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:1251916:0:0:0:0:0:0:0:255|h[|cff4CFF00Dagryn's Discarded Longbow V|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Halloween Tabard - Rank 2",
+        "itemId": 990206,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:990206:0:0:0:0:0:0:0:255|h[Halloween Tabard - Rank 2]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 18:42:46"
+  },
+  "doomslayer": {
+    "name": "Doomslayer",
+    "realm": "HeroesWoW Reborn",
+    "class": "WARRIOR",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Warrior's Piercing Helmet",
+        "itemId": 110014,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110014:0:0:0:0:0:0:0:255|h[Warrior's Piercing Helmet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Heritage",
+        "itemId": 40069,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40069:0:0:0:0:0:0:0:255|h[Heritage]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Warrior's Piercing Shoulderplates",
+        "itemId": 110003,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110003:0:0:0:0:0:0:0:255|h[Warrior's Piercing Shoulderplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Daily Haste Shirt II",
+        "itemId": 880013,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:880013:0:0:0:0:0:0:0:255|h[Daily Haste Shirt II]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Warrior's Piercing Battleplate",
+        "itemId": 110004,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110004:0:0:0:0:0:0:0:255|h[Warrior's Piercing Battleplate]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Warrior's Piercing Waist",
+        "itemId": 111415,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111415:0:0:0:0:0:0:0:255|h[Warrior's Piercing Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Warrior's Piercing Shattered Legplates",
+        "itemId": 468968,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:468968:0:0:0:0:0:0:0:255|h[Warrior's Piercing Shattered Legplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Warrior's Piercing Feet",
+        "itemId": 111412,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111412:0:0:0:0:0:0:0:255|h[Warrior's Piercing Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Warrior's Piercing Wrist",
+        "itemId": 111417,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111417:0:0:0:0:0:0:0:255|h[Warrior's Piercing Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Warrior's Piercing Gauntlets",
+        "itemId": 110000,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110000:0:0:0:0:0:0:0:255|h[Warrior's Piercing Gauntlets]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Warrior's Defender Shattered Ring",
+        "itemId": 102867,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102867:0:0:0:0:0:0:0:255|h[Warrior's Defender Shattered Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Warrior's Piercing Ring",
+        "itemId": 112866,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112866:0:0:0:0:0:0:0:255|h[Warrior's Piercing Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Berserker's Call",
+        "itemId": 33831,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:33831:0:0:0:0:0:0:0:255|h[Berserker's Call]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "|cffC71585Berserker's Rune II",
+        "itemId": 38526,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:38526:0:0:0:0:0:0:0:255|h[|cffC71585Berserker's Rune II]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Warrior's Piercing Back",
+        "itemId": 112937,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112937:0:0:0:0:0:0:0:255|h[Warrior's Piercing Back]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Greatsword of Frozen Hells",
+        "itemId": 1251229,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:1251229:0:0:0:0:0:0:0:255|h[Greatsword of Frozen Hells]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Greatsword of Frozen Hells",
+        "itemId": 1251229,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:1251229:0:0:0:0:0:0:0:255|h[Greatsword of Frozen Hells]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Dragonborn Longbow",
+        "itemId": 19350,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:19350:0:0:0:0:0:0:0:255|h[Dragonborn Longbow]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Daily Haste Tabard I",
+        "itemId": 880017,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:880017:0:0:0:0:0:0:0:255|h[Daily Haste Tabard I]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:17:08"
+  },
+  "dracax": {
+    "name": "Dracax",
+    "realm": "HeroesWoW Reborn",
+    "class": "DEATHKNIGHT",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 2,
+        "name": "Heritage",
+        "itemId": 40069,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40069:0:0:0:0:0:0:0:255|h[Heritage]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Death Knight's Plagued Shattered Battleplate",
+        "itemId": 469027,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:469027:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Shattered Battleplate]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Death Knight's Plagued Shattered Waist",
+        "itemId": 111503,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111503:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Shattered Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Death Knight's Plagued Vault Legplates",
+        "itemId": 48996,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48996:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Vault Legplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Sabatons of Sudden Reprisal",
+        "itemId": 39706,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39706:0:0:0:0:0:0:0:255|h[Sabatons of Sudden Reprisal]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Bindings of Eternity",
+        "itemId": 39741,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39741:0:0:0:0:0:0:0:255|h[Bindings of Eternity]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Death Knight's Plagued Vault Gauntlets",
+        "itemId": 48929,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48929:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Vault Gauntlets]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Death Knight's Plagued Ring",
+        "itemId": 102851,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102851:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Planestalker Band",
+        "itemId": 48007,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48007:0:0:0:0:0:0:0:255|h[Planestalker Band]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Death's Choice",
+        "itemId": 47464,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:47464:0:0:0:0:0:0:0:255|h[Death's Choice]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Defender's Code",
+        "itemId": 40257,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40257:0:0:0:0:0:0:0:255|h[Defender's Code]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Death Knight's Plagued Shattered Back",
+        "itemId": 102921,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102921:0:0:0:0:0:0:0:255|h[Death Knight's Plagued Shattered Back]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Gurthalak, Voice of the Deeps",
+        "itemId": 49864,
+        "enchantId": 0,
+        "gemIds": [
+          3525,
+          3567,
+          3543,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:49864:0:3525:3567:3543:0:0:0:255|h[Gurthalak, Voice of the Deeps]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Fang Kung, Spark of Titans",
+        "itemId": 39032,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39032:0:0:0:0:0:0:0:255|h[Fang Kung, Spark of Titans]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Leveler's Tabard",
+        "itemId": 500010,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:500010:0:0:0:0:0:0:0:255|h[Leveler's Tabard]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:42"
+  },
+  "eli": {
+    "name": "Eli",
+    "realm": "HeroesWoW Reborn",
+    "class": "ROGUE",
+    "level": 255,
+    "gear": [],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:12"
+  },
+  "fanrlex": {
+    "name": "Fanrlex",
+    "realm": "HeroesWoW Reborn",
+    "class": "DRUID",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Druid's Celestial Core Cover",
+        "itemId": 501235,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:501235:0:0:0:0:0:0:0:255|h[Druid's Celestial Core Cover]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Chains of Adoration",
+        "itemId": 40071,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40071:0:0:0:0:0:0:0:255|h[Chains of Adoration]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Druid's Celestial Necropolis Mantle",
+        "itemId": 605237,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:605237:0:0:0:0:0:0:0:255|h[Druid's Celestial Necropolis Mantle]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Druid's Celestial Necropolis Vestment",
+        "itemId": 605239,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:605239:0:0:0:0:0:0:0:255|h[Druid's Celestial Necropolis Vestment]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Cord of Thorn",
+        "itemId": 452022,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:452022:0:0:0:0:0:0:0:255|h[Cord of Thorn]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Druid's Celestial Necropolis Trousers",
+        "itemId": 605238,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:605238:0:0:0:0:0:0:0:255|h[Druid's Celestial Necropolis Trousers]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Boots of Thorn",
+        "itemId": 452007,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:452007:0:0:0:0:0:0:0:255|h[Boots of Thorn]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Bracers of Firnen",
+        "itemId": 452008,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cff0070dd|Hitem:452008:0:0:0:0:0:0:0:255|h[Bracers of Firnen]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Druid's Celestial Necropolis Gloves",
+        "itemId": 605236,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:605236:0:0:0:0:0:0:0:255|h[Druid's Celestial Necropolis Gloves]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Ring of Phased Regeneration",
+        "itemId": 54585,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54585:0:0:0:0:0:0:0:255|h[Ring of Phased Regeneration]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Signet of Twilight",
+        "itemId": 54576,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54576:0:0:0:0:0:0:0:255|h[Signet of Twilight]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Glowing Twilight Scale",
+        "itemId": 54589,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54589:0:0:0:0:0:0:0:255|h[Glowing Twilight Scale]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Charred Twilight Scale",
+        "itemId": 54588,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54588:0:0:0:0:0:0:0:255|h[Charred Twilight Scale]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Cloak of Burning Dusk",
+        "itemId": 54583,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54583:0:0:0:0:0:0:0:255|h[Cloak of Burning Dusk]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "The Impossible Dream",
+        "itemId": 40244,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:40244:0:0:0:0:0:0:0:255|h[The Impossible Dream]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Chalice of Benedictus",
+        "itemId": 47958,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:47958:0:0:0:0:0:0:0:255|h[Chalice of Benedictus]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Rod of Imprisoned Souls",
+        "itemId": 47922,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:47922:0:0:0:0:0:0:0:255|h[Rod of Imprisoned Souls]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:24"
+  },
+  "flanmagu": {
+    "name": "Flanmagu",
+    "realm": "HeroesWoW Reborn",
+    "class": "MAGE",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Mage's Hood",
+        "itemId": 110073,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110073:0:0:0:0:0:0:0:255|h[Mage's Hood]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Cosmic Lights",
+        "itemId": 40374,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40374:0:0:0:0:0:0:0:255|h[Cosmic Lights]|h|r",
+        "tooltip": [],
+        "tier": "T14 - Naxxramas",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Mage's Shoulderpads",
+        "itemId": 110065,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110065:0:0:0:0:0:0:0:255|h[Mage's Shoulderpads]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Donor's Shirt I",
+        "itemId": 500060,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:500060:0:0:0:0:0:0:0:255|h[Donor's Shirt I]|h|r",
+        "tooltip": [],
+        "tier": "Thank you for supporting HeroesWoW!",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Mage's Robe",
+        "itemId": 110061,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110061:0:0:0:0:0:0:0:255|h[Mage's Robe]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Mage's Waist",
+        "itemId": 111455,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111455:0:0:0:0:0:0:0:255|h[Mage's Waist]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Mage's Leggings",
+        "itemId": 110096,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110096:0:0:0:0:0:0:0:255|h[Mage's Leggings]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Mage's Feet",
+        "itemId": 111453,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111453:0:0:0:0:0:0:0:255|h[Mage's Feet]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Mage's Wrist",
+        "itemId": 111454,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111454:0:0:0:0:0:0:0:255|h[Mage's Wrist]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Mage's Gloves",
+        "itemId": 110063,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:110063:0:0:0:0:0:0:0:255|h[Mage's Gloves]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Mage's Ring",
+        "itemId": 112856,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112856:0:0:0:0:0:0:0:255|h[Mage's Ring]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Ring",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Mage's Ring",
+        "itemId": 112856,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112856:0:0:0:0:0:0:0:255|h[Mage's Ring]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Ring",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Hex Shrunken Head",
+        "itemId": 33829,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:33829:0:0:0:0:0:0:0:255|h[Hex Shrunken Head]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Caster Trinket",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Tome of Diabolic Remedy",
+        "itemId": 33828,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:33828:0:0:0:0:0:0:0:255|h[Tome of Diabolic Remedy]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Healer Trinket",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Mage's Back",
+        "itemId": 112926,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112926:0:0:0:0:0:0:0:255|h[Mage's Back]|h|r",
+        "tooltip": [],
+        "tier": "Tier 17 Back",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "|cff4CFF00Trident of Corrupted Waters I|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 1500009,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:1500009:0:0:0:0:0:0:0:255|h[|cff4CFF00Trident of Corrupted Waters I|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "Donor Weapon I",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Scroll of Whispered Secrets I",
+        "itemId": 49160,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:49160:0:0:0:0:0:0:0:255|h[Scroll of Whispered Secrets I]|h|r",
+        "tooltip": [],
+        "tier": "T16 Off-hand",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Torch of the Celestial Spark I",
+        "itemId": 1252210,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:1252210:0:0:0:0:0:0:0:255|h[Torch of the Celestial Spark I]|h|r",
+        "tooltip": [],
+        "tier": "Tier 16",
+        "itemStats": {}
+      }
+    ],
+    "source": "SELF",
+    "capturedAt": "2026-10-21 17:24:49"
+  },
+  "grizzlore": {
+    "name": "Grizzlore",
+    "realm": "HeroesWoW Reborn",
+    "class": "HUNTER",
+    "level": 255,
+    "gear": [],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:02"
+  },
+  "longstoat": {
+    "name": "Longstoat",
+    "realm": "HeroesWoW Reborn",
+    "class": "DRUID",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Druid's Savior Headguard",
+        "itemId": 111088,
+        "enchantId": 0,
+        "gemIds": [
+          3628,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111088:0:3628:3242:0:0:0:0:255|h[Druid's Savior Headguard]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Druid's Savior Neck",
+        "itemId": 111802,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111802:0:3242:0:0:0:0:0:255|h[Druid's Savior Neck]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Druid's Savior Shoulderpads",
+        "itemId": 120077,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120077:0:3242:0:0:0:0:0:255|h[Druid's Savior Shoulderpads]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Haste Donor Shirt III",
+        "itemId": 977033,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977033:0:0:0:0:0:0:0:255|h[Haste Donor Shirt III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Druid's Savior Raiment",
+        "itemId": 120076,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120076:0:3242:3242:0:0:0:0:255|h[Druid's Savior Raiment]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Druid's Savior Waist",
+        "itemId": 111371,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111371:0:3242:0:0:0:0:0:255|h[Druid's Savior Waist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Druid's Savior Legguards",
+        "itemId": 120156,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          3242,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120156:0:3242:3242:0:0:0:0:255|h[Druid's Savior Legguards]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Druid's Savior Feet",
+        "itemId": 120369,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120369:0:3242:0:0:0:0:0:255|h[Druid's Savior Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Druid's Savior Wrist",
+        "itemId": 120373,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120373:0:0:0:0:0:0:0:255|h[Druid's Savior Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Druid's Savior Handgrips",
+        "itemId": 120080,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:120080:0:3242:0:0:0:0:0:255|h[Druid's Savior Handgrips]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Druid's Savior Ring",
+        "itemId": 111852,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111852:0:3242:0:0:0:0:0:255|h[Druid's Savior Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Druid's Savior Ring",
+        "itemId": 111852,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111852:0:3242:0:0:0:0:0:255|h[Druid's Savior Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Eye of Command",
+        "itemId": 960461,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:960461:0:0:0:0:0:0:0:255|h[Eye of Command]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Grim Toll",
+        "itemId": 40256,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40256:0:0:0:0:0:0:0:255|h[Grim Toll]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Druid's Savior Back",
+        "itemId": 111922,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111922:0:3242:0:0:0:0:0:255|h[Druid's Savior Back]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "|cff4CFF00Tortoiseshell Longbow I|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 1500007,
+        "enchantId": 0,
+        "gemIds": [
+          3242,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:1500007:0:3242:0:0:0:0:0:255|h[|cff4CFF00Tortoiseshell Longbow I|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Haste Donor Tabard III",
+        "itemId": 977032,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977032:0:0:0:0:0:0:0:255|h[Haste Donor Tabard III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-20 22:01:19"
+  },
+  "lunimage": {
+    "name": "Lunimage",
+    "realm": "HeroesWoW Reborn",
+    "class": "MAGE",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Mage's Shattered Hood",
+        "itemId": 469002,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:469002:0:0:0:0:0:0:0:255|h[Mage's Shattered Hood]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Archavon's Amulet",
+        "itemId": 582500,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:582500:0:0:0:0:0:0:0:255|h[Archavon's Amulet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Mage's Necropolis Shoulderpads",
+        "itemId": 605214,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:605214:0:0:0:0:0:0:0:255|h[Mage's Necropolis Shoulderpads]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Mage's Shattered Robe",
+        "itemId": 468990,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:468990:0:0:0:0:0:0:0:255|h[Mage's Shattered Robe]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Belt of False Dignity",
+        "itemId": 39735,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39735:0:0:0:0:0:0:0:255|h[Belt of False Dignity]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Mage's Shattered Leggings",
+        "itemId": 469025,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:469025:0:0:0:0:0:0:0:255|h[Mage's Shattered Leggings]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Mage's Shattered  Feet",
+        "itemId": 111553,
+        "enchantId": 3606,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111553:3606:0:0:0:0:0:0:255|h[Mage's Shattered  Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Mage's Shattered Wrist",
+        "itemId": 111554,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:111554:0:0:0:0:0:0:0:255|h[Mage's Shattered Wrist]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Mage's Shattered Gloves",
+        "itemId": 468992,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:468992:0:0:0:0:0:0:0:255|h[Mage's Shattered Gloves]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Mage's Shattered Ring",
+        "itemId": 102856,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102856:0:0:0:0:0:0:0:255|h[Mage's Shattered Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Mage's Shattered Ring",
+        "itemId": 102856,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102856:0:0:0:0:0:0:0:255|h[Mage's Shattered Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Dying Curse",
+        "itemId": 40255,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40255:0:0:0:0:0:0:0:255|h[Dying Curse]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "|cffC71585Invoker's Rune",
+        "itemId": 38074,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:38074:0:0:0:0:0:0:0:255|h[|cffC71585Invoker's Rune]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Cloak of Averted Crisis",
+        "itemId": 40254,
+        "enchantId": 3859,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40254:3859:0:0:0:0:0:0:255|h[Cloak of Averted Crisis]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Warglaive of Azzinoth Transmog",
+        "itemId": 1251023,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:1251023:0:0:0:0:0:0:0:255|h[Warglaive of Azzinoth Transmog]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Dragonborn Orb of Forgotten Magicka",
+        "itemId": 19366,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:19366:0:0:0:0:0:0:0:255|h[Dragonborn Orb of Forgotten Magicka]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Torch of the Celestial Spark",
+        "itemId": 50204,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:50204:0:0:0:0:0:0:0:255|h[Torch of the Celestial Spark]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Leveler's Tabard",
+        "itemId": 870079,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:870079:0:0:0:0:0:0:0:255|h[Leveler's Tabard]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:19:13"
+  },
+  "maximus": {
+    "name": "Maximus",
+    "realm": "HeroesWoW Reborn",
+    "class": "ROGUE",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Shado-Pan Helmet",
+        "itemId": 100408,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:100408:0:0:0:0:0:0:0:255|h[Shado-Pan Helmet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Emalon's Trial",
+        "itemId": 582501,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:582501:0:0:0:0:0:0:0:255|h[Emalon's Trial]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Rogue's Vault Pauldrons",
+        "itemId": 48869,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48869:0:0:0:0:0:0:0:255|h[Rogue's Vault Pauldrons]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Shado-Pan Chest",
+        "itemId": 100410,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:100410:0:0:0:0:0:0:0:255|h[Shado-Pan Chest]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Vault Leather Cord",
+        "itemId": 84007,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:84007:0:0:0:0:0:0:0:255|h[Vault Leather Cord]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Rogue's Vault Legplates",
+        "itemId": 48898,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48898:0:0:0:0:0:0:0:255|h[Rogue's Vault Legplates]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Vault Leather Feet",
+        "itemId": 84008,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:84008:0:0:0:0:0:0:0:255|h[Vault Leather Feet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Vault Leather Bindings",
+        "itemId": 84006,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:84006:0:0:0:0:0:0:0:255|h[Vault Leather Bindings]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Rogue's Vault Gauntlets",
+        "itemId": 48866,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:48866:0:0:0:0:0:0:0:255|h[Rogue's Vault Gauntlets]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Signet of Twilight",
+        "itemId": 54576,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54576:0:0:0:0:0:0:0:255|h[Signet of Twilight]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Strong-Handed Ring",
+        "itemId": 40074,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40074:0:0:0:0:0:0:0:255|h[Strong-Handed Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Bandit's Insignia",
+        "itemId": 40371,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40371:0:0:0:0:0:0:0:255|h[Bandit's Insignia]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Sharpened Twilight Scale",
+        "itemId": 54590,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:54590:0:0:0:0:0:0:0:255|h[Sharpened Twilight Scale]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Aged Winter Cloak",
+        "itemId": 40250,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:40250:0:0:0:0:0:0:0:255|h[Aged Winter Cloak]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Dragonborn Hacker",
+        "itemId": 19363,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:19363:0:0:0:0:0:0:0:255|h[Dragonborn Hacker]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Dragonborn Hacker",
+        "itemId": 19363,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff8000|Hitem:19363:0:0:0:0:0:0:0:255|h[Dragonborn Hacker]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "Fang Kung, Spark of Titans",
+        "itemId": 39032,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39032:0:0:0:0:0:0:0:255|h[Fang Kung, Spark of Titans]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:19:15"
+  },
+  "nerf": {
+    "name": "Nerf",
+    "realm": "HeroesWoW Reborn",
+    "class": "ROGUE",
+    "level": 255,
+    "gear": [
+      {
+        "slot": 1,
+        "name": "Rogue's Shattered Helmet",
+        "itemId": 468976,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:468976:0:0:0:0:0:0:0:255|h[Rogue's Shattered Helmet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 2,
+        "name": "Icy Blast Amulet",
+        "itemId": 112014,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112014:0:0:0:0:0:0:0:255|h[Icy Blast Amulet]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 3,
+        "name": "Deathmantle Shoulderpads",
+        "itemId": 30149,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:30149:0:0:0:0:0:0:0:255|h[Deathmantle Shoulderpads]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 4,
+        "name": "Haste Donor Shirt III",
+        "itemId": 977033,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977033:0:0:0:0:0:0:0:255|h[Haste Donor Shirt III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 5,
+        "name": "Deathmantle Chestguard",
+        "itemId": 30144,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:30144:0:0:0:0:0:0:0:255|h[Deathmantle Chestguard]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 6,
+        "name": "Bonescythe Waistguard",
+        "itemId": 22482,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:22482:0:0:0:0:0:0:0:255|h[Bonescythe Waistguard]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 7,
+        "name": "Deathmantle Legguards",
+        "itemId": 30148,
+        "enchantId": 3822,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:30148:3822:0:0:0:0:0:0:255|h[Deathmantle Legguards]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 8,
+        "name": "Bonescythe Sabatons",
+        "itemId": 22480,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:22480:0:0:0:0:0:0:0:255|h[Bonescythe Sabatons]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 9,
+        "name": "Bonescythe Bracers",
+        "itemId": 22483,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:22483:0:0:0:0:0:0:0:255|h[Bonescythe Bracers]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 10,
+        "name": "Dislocating Handguards",
+        "itemId": 39727,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:39727:0:0:0:0:0:0:0:255|h[Dislocating Handguards]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 11,
+        "name": "Rogue's Ring",
+        "itemId": 112861,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:112861:0:0:0:0:0:0:0:255|h[Rogue's Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 12,
+        "name": "Rogue's Shattered Ring",
+        "itemId": 102861,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:102861:0:0:0:0:0:0:0:255|h[Rogue's Shattered Ring]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 13,
+        "name": "Berserker's Call",
+        "itemId": 33831,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:33831:0:0:0:0:0:0:0:255|h[Berserker's Call]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 14,
+        "name": "Eye of Command",
+        "itemId": 960461,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:960461:0:0:0:0:0:0:0:255|h[Eye of Command]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 15,
+        "name": "Rogue's Back",
+        "itemId": 121932,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:121932:0:0:0:0:0:0:0:255|h[Rogue's Back]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 16,
+        "name": "Runesword of the Red",
+        "itemId": 21521,
+        "enchantId": 2673,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:21521:2673:0:0:0:0:0:0:255|h[Runesword of the Red]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 17,
+        "name": "Runesword of the Red",
+        "itemId": 21521,
+        "enchantId": 2673,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffa335ee|Hitem:21521:2673:0:0:0:0:0:0:255|h[Runesword of the Red]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 18,
+        "name": "|cff4CFF00Tortoiseshell Longbow|r|cffFC0202 of Donation|r|cffe6cc80",
+        "itemId": 24326,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:24326:0:0:0:0:0:0:0:255|h[|cff4CFF00Tortoiseshell Longbow|r|cffFC0202 of Donation|r|cffe6cc80]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      },
+      {
+        "slot": 19,
+        "name": "Haste Donor Tabard III",
+        "itemId": 977032,
+        "enchantId": 0,
+        "gemIds": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "link": "|cffff0000|Hitem:977032:0:0:0:0:0:0:0:255|h[Haste Donor Tabard III]|h|r",
+        "tooltip": [],
+        "tier": "",
+        "itemStats": {}
+      }
+    ],
+    "source": "INSPECT",
+    "capturedAt": "2026-10-21 19:18:34"
+  }
+}
